@@ -1,3 +1,9 @@
+**#Project description**
+This Project helps to understand how the hook works internal and basic of tailwind css 
+The different hooks used are useEffect useState useCallBack and useRef 
+This project generate the aplhanumic password for authenticated login saving the account from the unauthorized access 
+It provides a customize password generator based on the user preference such as length, include specialcharacter number etc
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
